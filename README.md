@@ -1,9 +1,7 @@
-# Red Guard of Ethos and Socialism (RGES)
-
-The greatest NKVD branch of them all.
+# Red Guard of Ethos and Socialism (RGES) | The greatest NKVD branch of them all
+## For the greater good and the elimination of the Xingdong Rebellion
 ![NKVD Logo](/assets/images/icon.png)
 ## Importing from the outside world
-## For the greater good and the elimination of the Xingdong Rebellion
 [Union of Socialist Bench Republics](https://discord.gg/QzRPGm7e7x)
 
 [Contact the Supreme Chancellor](mailto:ylu7@eq.edu.au)
